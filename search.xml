@@ -17,9 +17,9 @@
 
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
+      <title><![CDATA[你真的熟练的掌握了你的Mac了么?]]></title>
       <url>%2F2016%2F11%2F30%2Fhello-world%2F</url>
-      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment 本作品采用知识共享署名 2.5 中国大陆许可协议进行许可，欢迎转载，但转载请注明来自Colin’s Nest，并保持转载后文章内容的完整。本人保留所有版权相关权利。本文链接：http://Viosky.win/2016/11/30/hello-world/]]></content>
+      <content type="text"><![CDATA[无论你从事的是什么那个开发者的职位,我们都知道熟练的掌握手上的开发者工具,是一个程序员必须的,最重要的能力. 本作品采用知识共享署名 2.5 中国大陆许可协议进行许可，欢迎转载，但转载请注明来自Colin’s Nest，并保持转载后文章内容的完整。本人保留所有版权相关权利。本文链接：http://Viosky.win/2016/11/30/hello-world/]]></content>
     </entry>
 
     
